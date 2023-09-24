@@ -1,3 +1,19 @@
+# ask user to enter a directory name 1
+# ask user to enter a directory name 2
+# ask user to enter a file name
+# Create dir1 and dir2
+# Create file using this file name under directory 1
+# Insert following two lines in this file
+# This is the first line
+# This is the second line
+# Print contents of this file
+# Copy this file from directory 1 to directory 2
+# Insert this line in this new file in directory 2
+# This is the third line
+# Print contents of this new (copied) file
+
+# Code:
+
 echo "enter a directory name 1: "
 read dir1
 echo "The directory name 1 is $dir1."
