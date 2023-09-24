@@ -1,0 +1,10 @@
+ask user to enter their name, take it as name variable
+ask user to enter a number, declare it as num1 variable
+ask user to enter a number, declare it as num2 variable
+print message: Hello <name>
+print message: First Number is: <num1>
+print message: Second Number is: <num2>
+print message: Addition is: <addition_of_num1_and_num2>
+print message: Subtraction is: <subtraction_of_num1_and_num2>
+print message: Multiplication is: <multiplication_of_num1_and_num2>
+print message: Division is: <division_of_num1_and_num2>
